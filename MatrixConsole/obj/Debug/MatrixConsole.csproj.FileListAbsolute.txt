@@ -1,6 +1,0 @@
-C:\Users\chris\Win7Dev\MatrixConsole\MatrixConsole\bin\Debug\MatrixConsole.exe.config
-C:\Users\chris\Win7Dev\MatrixConsole\MatrixConsole\bin\Debug\MatrixConsole.exe
-C:\Users\chris\Win7Dev\MatrixConsole\MatrixConsole\bin\Debug\MatrixConsole.pdb
-C:\Users\chris\Win7Dev\MatrixConsole\MatrixConsole\obj\Debug\MatrixConsole.csprojResolveAssemblyReference.cache
-C:\Users\chris\Win7Dev\MatrixConsole\MatrixConsole\obj\Debug\MatrixConsole.exe
-C:\Users\chris\Win7Dev\MatrixConsole\MatrixConsole\obj\Debug\MatrixConsole.pdb
